@@ -1,0 +1,27 @@
+name: MLGRush
+version: 1.2
+main: de.laurinhummel.mlgrush.main.Main
+authors: [ SkyExit ]
+description: MLGRush
+api-version: 1.16
+depend: [WorldEdit]
+
+commands:
+  setlobbyspawn:
+    description: Set Lobby Spawn
+  setredspawn:
+    description: Set Lobby Spawn
+  setbluespawn:
+    description: Set Lobby Spawn
+  joinred:
+    description: Join Red
+  joinblue:
+    description: Join Red
+  resetmap:
+    description: reset
+  setteleporty:
+    description: Set Y
+  getstuff:
+    description: get stuff
+  setarenaborders:
+    description: Set Arena Borders
